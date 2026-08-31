@@ -14,7 +14,7 @@ console.table([idk==idk2, idk3==idk4])
 let arr=["a","b","c"]      //array
 
 let obj={                  //object
-    a: 1,
+    a:1,
     b:2,
     c:3
 }
