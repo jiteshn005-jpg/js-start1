@@ -4,6 +4,7 @@ const score= Number(256.84)          //numaber
 const str= score.toString()      //string
 console.log(score.toFixed(2))
 console.log(score.toPrecision(4))
+console.log(score.toPrecision(2))
 
 console.table([typeof(score),typeof(str)])
 
