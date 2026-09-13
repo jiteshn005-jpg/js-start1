@@ -66,3 +66,10 @@ val1 = undefined ?? 15
 console.log(val1)
 val1 = null ?? 10 ?? 20
 console.log(val1)
+
+const programming = ["js", "rb", "py", "java", "cpp"]
+
+for (const key in programming) {
+    console.log(key)
+    console.log(programming[key])
+}
